@@ -13,11 +13,11 @@ some screenshots.
 
 ## Who Did What?
 
-I did the entire assignment, no partner
+I did the entire assignment by myself, no partner.
 
 ## What you learned
 
-I found it being difficult to understand some of the functions at first, but after going around a bit I 
+I found it being difficult to understand some of the functions at first, but after going around a bit I became more familiar with hown to do things like collison detection, screen changes. I also learned how to make buttons for interactibility, and overall got to try Xcode for the first time. 
 
 ## Authors
 

@@ -6,8 +6,10 @@
 I built a basic IOS app version of the game Breakout.
 
 some screenshots.
-(https:/<img width="1728" alt="Screen Shot 2023-09-17 at 2 41 02 PM" src="https://github.com/dartmouth-cs98-23f/hack-a-thing-1-michael-strohm/assets/129143211/07f770be-3604-411d-ae5f-885a3f264e57">)
+<img width="1728" alt="Screen Shot 2023-09-17 at 2 41 02 PM" src="https://github.com/dartmouth-cs98-23f/hack-a-thing-1-michael-strohm/assets/129143211/07f770be-3604-411d-ae5f-885a3f264e57">
 <img width="1728" alt="Screen Shot 2023-09-17 at 2 40 37 PM" src="https://github.com/dartmouth-cs98-23f/hack-a-thing-1-michael-strohm/assets/129143211/27cc19fa-5d6f-49a6-a549-124d252bba0d">
+https://github.com/dartmouth-cs98-23f/hack-a-thing-1-michael-strohm/assets/129143211/598b5009-267a-4175-b7e4-1993026f9808
+
 
 ## Who Did What?
 

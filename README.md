@@ -3,23 +3,27 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I built a basic IOS app version of the game Breakout.
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I did the entire assignment, no partner
 
 ## What you learned
 
-TODO: what worked / what didn't work
+I found it being difficult to understand some of the functions at first, but after going around a bit I 
 
 ## Authors
 
-TODO: list of authors
-
+Michael Strohm
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+[TODO: cite any tutorials followed here](https://www.youtube.com/watch?v=B_XBzBc63DA 
+https://spin.atomicobject.com/2014/12/29/spritekit-physics-tutorial-swift/ 
+https://betterprogramming.pub/build-a-simple-home-screen-for-your-game-in-swift-e963265aa854 
+https://www.appypie.com/creating-a-simple-ios-game-with-swift-in-xcode/ 
+https://www.mooict.com/c-tutorial-create-a-breakout-game-in-visual-studio/ 
+)

@@ -21,7 +21,7 @@ I found it being difficult to understand some of the functions at first, but aft
 Michael Strohm
 ## Acknowledgments
 
-[TODO: cite any tutorials followed here](https://www.youtube.com/watch?v=B_XBzBc63DA 
+(https://www.youtube.com/watch?v=B_XBzBc63DA 
 https://spin.atomicobject.com/2014/12/29/spritekit-physics-tutorial-swift/ 
 https://betterprogramming.pub/build-a-simple-home-screen-for-your-game-in-swift-e963265aa854 
 https://www.appypie.com/creating-a-simple-ios-game-with-swift-in-xcode/ 
